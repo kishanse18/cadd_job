@@ -1,0 +1,3 @@
+JACKFRUIT
+Prefix Adder - Using a hierarchial approach we are calculationg the genertae and generate for each bit, in the blackbox module the signals are propogated through multiple stages and finally sum and carry are calculated.
+Floating Point 32 bit multiplier - 
